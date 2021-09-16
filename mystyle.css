@@ -37,6 +37,7 @@ body {
   background-color: green;
   width: 50%;
   height: 100%;
+  z-index:  1000;
 }
 
 .projectLabel {
