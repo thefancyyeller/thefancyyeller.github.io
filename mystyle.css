@@ -35,7 +35,7 @@ body {
 
 .progressBar {
   background-color: green;
-  width: 85%;
+  width: 50%;
   height: 100%;
 }
 
@@ -54,9 +54,8 @@ body {
   display: inline;
   float: left;
   border: solid;
-  padding: 10px;
   border-radius: 5px;
-  width: 500px;
+  width
 }
 
 .projectWrapper {
