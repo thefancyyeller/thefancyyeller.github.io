@@ -35,11 +35,7 @@ body {
 
 .progressBar {
   background-color: green;
-<<<<<<< Updated upstream
-  width: 80%;
-=======
   width: 90%;
->>>>>>> Stashed changes
   height: 100%;
 }
 
