@@ -35,7 +35,7 @@ body {
 
 .progressBar {
   background-color: green;
-  width: 90%;
+  width: 99%;
   height: 100%;
 }
 
@@ -68,4 +68,20 @@ body {
   grid-column-start: 2;
   color: gray;
   font-family: "Arial", Sans-serif;
-  }
+}
+
+.statusButton{
+  background-color: white;
+  display:  inline;
+  height:  auto;
+  float: center;
+  width: auto;
+  flex: 100px;
+  padding: 5px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 2px;
+  font-size:  18px;
+  grid-row-start: 3;
+  grid-column-start: 2;
+}
